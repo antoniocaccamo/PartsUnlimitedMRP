@@ -2,7 +2,7 @@
 *.o
 *.d
 *.so
-*.class
+*.class 
 
 # Eclipse
 .classpath
