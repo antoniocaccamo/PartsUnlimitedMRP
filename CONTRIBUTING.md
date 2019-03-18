@@ -33,7 +33,7 @@ Summary of the changes (Less than 80 chars)
 
 #bugnumber (in this specific format)
 ```
-
+ 
 
 This project has adopted the [Microsoft Open Source Code of
 Conduct](https://opensource.microsoft.com/codeofconduct/).
